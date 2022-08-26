@@ -1,1 +1,1 @@
-A new repo for it practice
+A new repo for git practice
